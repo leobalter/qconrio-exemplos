@@ -1,0 +1,16 @@
+{
+  "name": "qconrio",
+  "version": "1.0.0",
+  "description": "JS Ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leo Balter",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^0.3.5",
+    "marked-terminal": "^1.6.1",
+    "terminal-menu": "^2.1.1"
+  }
+}
